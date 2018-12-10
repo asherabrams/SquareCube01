@@ -8,6 +8,7 @@
 //  Returns the square of the cube of a number.
 //  Last updated 2018-12-04.
 
+//  PREPROCESSOR
 #include <iostream>
 #include <cstdlib>
 #include <cmath>
