@@ -56,6 +56,9 @@ int main(int argc, const char * argv[])
     return 0;
 }
 
+// My general practice is to handle the computation within functions, 
+// and to use main to handle the functions themselves.
+
 //  FUNCTION DEFINITION
 double func01(double userin01)
 {
